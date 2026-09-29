@@ -46,6 +46,7 @@ sd25/
 │   ├── cinematic_optics_texture.md      # 视觉光影与全题材四大材质质感手册 (Look & Texture)
 │   ├── cinematic_acting_physics.md      # 微表演、解剖学微反应与动力学物理手册 (Acting & Physics)
 │   ├── cinematic_montage_metaphor.md    # 空间几何、维伦纽瓦尺度与跨镜头组接手册 (Framing & Montage)
+│   ├── 原视频处理与兼容规则.md           # 按需加载的规格兼容、特殊声明与组合执行规则
 │   ├── video_editing.md                 # 视频编辑专项规范（母版继承与动态替换）
 │   ├── video_extension.md               # 视频延长专项规范（前后双向延续与边界拓扑）
 │   └── keyframes_whitebox.md            # 关键帧锚点与 3D 白模重渲染规范
